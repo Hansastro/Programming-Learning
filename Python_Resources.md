@@ -1,2 +1,3 @@
 - [Anaconda](https://www.anaconda.com/)
 - [Python tutorial (German)](https://py-tutorial-de.readthedocs.io/de/python-3.3/index.html)
+- [Python documentation](https://docs.python.org/3/)
