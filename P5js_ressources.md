@@ -3,3 +3,5 @@
 
 - [P5.js online editor](https://editor.p5js.org/)
 - The [Coding Train](https://thecodingtrain.com/) Website
+- [P5.js website](https://p5js.org/)
+- P5.js [manual](https://p5js.org/reference/)
