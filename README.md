@@ -1,2 +1,2 @@
-# Programming-Learning
-Resources and links to learn programming. Mainly with P5.js and Python
+# Programming Learning
+You will find here resources and links to learn how to program. Mainly with P5.js and Python
