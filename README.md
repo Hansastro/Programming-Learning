@@ -10,7 +10,7 @@ Javascript is used massively on internet and begin with P5.js which is a graphic
 
 Those two languages have also a lot of support on Internet.
 
-## Projects
+## Beginner Projects (P5.js)
 
 Those projects are proposed for their simplicity. Begin with the seven segment and bring your creativity. Try, experiment.
 
@@ -20,6 +20,22 @@ Example of projects in P5.js for really beginner:
 - [Snake](Project03_2_Snake/README.md)
 - [Phyllotaxis](Project03_Phyllotaxis/README.md)
 - [Metaballs](Project04_Metaballs/README.md)
+
+## Python projects (data oriented)
+
+Python offeres a lot of library to manipulate datas, images or files. Here are some ideas to discover the basics.
+- Create and manipulate simple data with a Pamdas Dataframe
+- Import data from CSV and Excel
+- Perform simple statistical analysis on data
+- Draw some graphs with Matplotlib
+- Use SQL with sqlite
+
+## Algotithmical Puzzle
+If you like logical and mathematical puzzle, Google organize challenges:
+[Google competition](https://codingcompetitions.withgoogle.com/)
+
+The previous edition are availaible online and some tips for the solution are given. It is not easy but it is godd to improve our methematical thinking.
+
 
 # Resources
 
