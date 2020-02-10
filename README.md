@@ -10,6 +10,19 @@ Javascript is used massively on internet and begin with P5.js which is a graphic
 
 Those two languages have also a lot of support on Internet.
 
+## Useful tools
+
+Have a look on the following tools:
+- Jupyter Notebook
+- Jupyter Notebook Extension (lot of usefull addon for Jupyter Notebook)
+- Markdown format (How to format simple text)
+- Matplotlib (Library to draw some graphs in Python)
+- Google Colab (Jupyter Notebook bei Google)
+- Git and Github or Gitlab (Usefull to store projects and work with several people)
+- LateX (High quelity docuement generator. Tricky to use but extremly powerfull, very nice output)
+- Inkscape (Tool to draw some vectorial graphics)
+- Gimp (Image manipulation tool)
+
 ## Beginner Projects (P5.js)
 
 Those projects are proposed for their simplicity. Begin with the seven segment and bring your creativity. Try, experiment.
